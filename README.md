@@ -5,7 +5,8 @@
 3) You can change the order of the images in the listbox, or add or remove images.
 4) You can choose to have border and/or spacing with user-selected colors.
 5) You also can define the size of the final combined image if you would like.
-6) Finally, by pressing the **Save Combined Image** you save the final grid of images.
+6) By clicking on the **Preview**, you can see a preview of the combined image before saving it.
+7) Finally, by pressing the **Save Combined Image** you save the final grid of images.
 
 **Hint:** This application is completely free. 
 ## This archive includes the executable program, **ImageCombiner.exe**, which you should click on to run.
